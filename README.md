@@ -1,4 +1,4 @@
-# Cozy Comfort -Seller Service
+# Seller Service
 
 This is the backend service for the Seller module. It is built with **Flask** and was originally developed in a Jupyter Notebook for prototyping.
 
